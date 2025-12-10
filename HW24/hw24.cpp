@@ -21,5 +21,4 @@ int main() {
 
     ++a;
     cout << "++a = " << a << endl;
-
 }
